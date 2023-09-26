@@ -1,4 +1,4 @@
 # Bandana-demo
 This is my first Git repository.
 <br>
-Author- Bandana Roy
+Author- Bandana Roy(Chemistry)
